@@ -1,0 +1,19 @@
+{
+  "name": "metavrse-chat",
+  "version": "0.0.1",
+  "description": "Chat module for metavrse server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnboundVR/metavrse-chat.git"
+  },
+  "author": "UnboundVR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnboundVR/metavrse-chat/issues"
+  },
+  "homepage": "https://github.com/UnboundVR/metavrse-chat#readme"
+}
